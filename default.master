@@ -1,0 +1,44 @@
+<%@ Master Language="VB" CodeFile="default.master.vb" Inherits="_default" %>
+
+<!DOCTYPE html> 
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head runat="server">
+    <title>
+    
+    </title>
+      <style type="text/css">
+        [if lte IE 7]
+	        <link rel="stylesheet" href="default.css" type="text/css" media="screen" />
+	        
+        [endif]
+     </style>
+
+</head>
+ 
+<body style="margin: 0px 0px 0px 0px; border:0px; border-top:0px;">
+    <form id="form1" runat="server">
+    <div>
+        <table width="100%">
+            <tr>
+                <td style="background-color:red">
+               <ajax:ScriptManager ID="sm" runat="server" EnablePartialRendering="true" />
+                </td>
+            </tr>
+            <tr>
+                <td> 
+                    <div id="divbackground" runat="server" >
+                       <ajax:UpdatePanel ID="up" runat="server" UpdateMode="Conditional">
+                            <ContentTemplate>
+                                <asp:contentplaceholder ID="ContentPlaceHolder1" runat="server">
+                                </asp:contentplaceholder>    
+                            </ContentTemplate>
+                        </ajax:UpdatePanel>
+                    </div>
+                </td>
+            </tr>
+        </table>
+    </div>
+    </form>
+</body>
+</html>

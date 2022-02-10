@@ -1,0 +1,81 @@
+D:\Makmur\trading\connection\bin\Debug\connection.dll
+D:\Makmur\trading\connection\bin\Debug\connection.pdb
+D:\Makmur\trading\connection\bin\Debug\connection.xml
+D:\Makmur\trading\connection\obj\Debug\ResolveAssemblyReference.cache
+D:\Makmur\trading\connection\obj\Debug\connection.Resources.resources
+D:\Makmur\trading\connection\obj\Debug\connection.vbproj.GenerateResource.Cache
+D:\Makmur\trading\connection\obj\Debug\connection.dll
+D:\Makmur\trading\connection\obj\Debug\connection.xml
+D:\Makmur\trading\connection\obj\Debug\connection.pdb
+E:\Makmur\trading\connection\bin\Debug\connection.dll
+E:\Makmur\trading\connection\bin\Debug\connection.pdb
+E:\Makmur\trading\connection\bin\Debug\connection.xml
+E:\Makmur\trading\connection\obj\Debug\ResolveAssemblyReference.cache
+E:\Makmur\trading\connection\obj\Debug\connection.Resources.resources
+E:\Makmur\trading\connection\obj\Debug\connection.vbproj.GenerateResource.Cache
+E:\Makmur\trading\connection\obj\Debug\connection.dll
+E:\Makmur\trading\connection\obj\Debug\connection.xml
+E:\Makmur\trading\connection\obj\Debug\connection.pdb
+E:\Work\Makmur Fantawijaya\source code\connection\bin\Debug\connection.dll
+E:\Work\Makmur Fantawijaya\source code\connection\bin\Debug\connection.pdb
+E:\Work\Makmur Fantawijaya\source code\connection\bin\Debug\connection.xml
+E:\Work\Makmur Fantawijaya\source code\connection\obj\Debug\ResolveAssemblyReference.cache
+E:\Work\Makmur Fantawijaya\source code\connection\obj\Debug\connection.Resources.resources
+E:\Work\Makmur Fantawijaya\source code\connection\obj\Debug\connection.vbproj.GenerateResource.Cache
+E:\Work\Makmur Fantawijaya\source code\connection\obj\Debug\connection.dll
+E:\Work\Makmur Fantawijaya\source code\connection\obj\Debug\connection.xml
+E:\Work\Makmur Fantawijaya\source code\connection\obj\Debug\connection.pdb
+D:\Work\Makmur Fantawijaya\Makmur Fantawijaya\source code\connection\bin\Debug\connection.dll
+D:\Work\Makmur Fantawijaya\Makmur Fantawijaya\source code\connection\bin\Debug\connection.pdb
+D:\Work\Makmur Fantawijaya\Makmur Fantawijaya\source code\connection\bin\Debug\connection.xml
+D:\Work\Makmur Fantawijaya\Makmur Fantawijaya\source code\connection\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Makmur Fantawijaya\Makmur Fantawijaya\source code\connection\obj\Debug\connection.Resources.resources
+D:\Work\Makmur Fantawijaya\Makmur Fantawijaya\source code\connection\obj\Debug\connection.vbproj.GenerateResource.Cache
+D:\Work\Makmur Fantawijaya\Makmur Fantawijaya\source code\connection\obj\Debug\connection.dll
+D:\Work\Makmur Fantawijaya\Makmur Fantawijaya\source code\connection\obj\Debug\connection.xml
+D:\Work\Makmur Fantawijaya\Makmur Fantawijaya\source code\connection\obj\Debug\connection.pdb
+D:\Work\Makmur Fantawijaya\source code\connection\bin\Debug\connection.dll
+D:\Work\Makmur Fantawijaya\source code\connection\bin\Debug\connection.pdb
+D:\Work\Makmur Fantawijaya\source code\connection\bin\Debug\connection.xml
+D:\Work\Makmur Fantawijaya\source code\connection\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Makmur Fantawijaya\source code\connection\obj\Debug\connection.Resources.resources
+D:\Work\Makmur Fantawijaya\source code\connection\obj\Debug\connection.vbproj.GenerateResource.Cache
+D:\Work\Makmur Fantawijaya\source code\connection\obj\Debug\connection.dll
+D:\Work\Makmur Fantawijaya\source code\connection\obj\Debug\connection.xml
+D:\Work\Makmur Fantawijaya\source code\connection\obj\Debug\connection.pdb
+E:\Work\Makmur Fantawijaya\sourcecode\connection\bin\Debug\connection.dll
+E:\Work\Makmur Fantawijaya\sourcecode\connection\bin\Debug\connection.pdb
+E:\Work\Makmur Fantawijaya\sourcecode\connection\bin\Debug\connection.xml
+E:\Work\Makmur Fantawijaya\sourcecode\connection\obj\Debug\ResolveAssemblyReference.cache
+E:\Work\Makmur Fantawijaya\sourcecode\connection\obj\Debug\connection.Resources.resources
+E:\Work\Makmur Fantawijaya\sourcecode\connection\obj\Debug\connection.vbproj.GenerateResource.Cache
+E:\Work\Makmur Fantawijaya\sourcecode\connection\obj\Debug\connection.dll
+E:\Work\Makmur Fantawijaya\sourcecode\connection\obj\Debug\connection.xml
+E:\Work\Makmur Fantawijaya\sourcecode\connection\obj\Debug\connection.pdb
+D:\Work\Makmur Fantawijaya\sourcecode\connection\bin\Debug\connection.dll
+D:\Work\Makmur Fantawijaya\sourcecode\connection\bin\Debug\connection.pdb
+D:\Work\Makmur Fantawijaya\sourcecode\connection\bin\Debug\connection.xml
+D:\Work\Makmur Fantawijaya\sourcecode\connection\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Makmur Fantawijaya\sourcecode\connection\obj\Debug\connection.Resources.resources
+D:\Work\Makmur Fantawijaya\sourcecode\connection\obj\Debug\connection.vbproj.GenerateResource.Cache
+D:\Work\Makmur Fantawijaya\sourcecode\connection\obj\Debug\connection.dll
+D:\Work\Makmur Fantawijaya\sourcecode\connection\obj\Debug\connection.xml
+D:\Work\Makmur Fantawijaya\sourcecode\connection\obj\Debug\connection.pdb
+D:\fantawijaya\source code\connection\bin\Debug\connection.dll
+D:\fantawijaya\source code\connection\bin\Debug\connection.pdb
+D:\fantawijaya\source code\connection\bin\Debug\connection.xml
+D:\fantawijaya\source code\connection\obj\Debug\ResolveAssemblyReference.cache
+D:\fantawijaya\source code\connection\obj\Debug\connection.Resources.resources
+D:\fantawijaya\source code\connection\obj\Debug\connection.vbproj.GenerateResource.Cache
+D:\fantawijaya\source code\connection\obj\Debug\connection.dll
+D:\fantawijaya\source code\connection\obj\Debug\connection.xml
+D:\fantawijaya\source code\connection\obj\Debug\connection.pdb
+C:\Data\fantawijaya\source code\connection\bin\Debug\connection.dll
+C:\Data\fantawijaya\source code\connection\bin\Debug\connection.pdb
+C:\Data\fantawijaya\source code\connection\bin\Debug\connection.xml
+C:\Data\fantawijaya\source code\connection\obj\Debug\ResolveAssemblyReference.cache
+C:\Data\fantawijaya\source code\connection\obj\Debug\connection.Resources.resources
+C:\Data\fantawijaya\source code\connection\obj\Debug\connection.vbproj.GenerateResource.Cache
+C:\Data\fantawijaya\source code\connection\obj\Debug\connection.dll
+C:\Data\fantawijaya\source code\connection\obj\Debug\connection.xml
+C:\Data\fantawijaya\source code\connection\obj\Debug\connection.pdb

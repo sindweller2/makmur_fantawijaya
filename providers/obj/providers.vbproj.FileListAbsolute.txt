@@ -1,0 +1,144 @@
+D:\Makmur\trading\providers\bin\Debug\providers.dll
+D:\Makmur\trading\providers\bin\Debug\providers.pdb
+D:\Makmur\trading\providers\bin\Debug\providers.xml
+D:\Makmur\trading\providers\bin\Debug\common.dll
+D:\Makmur\trading\providers\bin\Debug\connection.dll
+D:\Makmur\trading\providers\bin\Debug\Symmetric.dll
+D:\Makmur\trading\providers\bin\Debug\common.pdb
+D:\Makmur\trading\providers\bin\Debug\common.xml
+D:\Makmur\trading\providers\bin\Debug\connection.pdb
+D:\Makmur\trading\providers\bin\Debug\connection.xml
+D:\Makmur\trading\providers\obj\Debug\ResolveAssemblyReference.cache
+D:\Makmur\trading\providers\obj\Debug\providers.Resources.resources
+D:\Makmur\trading\providers\obj\Debug\providers.vbproj.GenerateResource.Cache
+D:\Makmur\trading\providers\obj\Debug\providers.dll
+D:\Makmur\trading\providers\obj\Debug\providers.xml
+D:\Makmur\trading\providers\obj\Debug\providers.pdb
+E:\Makmur\trading\providers\bin\Debug\providers.dll
+E:\Makmur\trading\providers\bin\Debug\providers.pdb
+E:\Makmur\trading\providers\bin\Debug\providers.xml
+E:\Makmur\trading\providers\bin\Debug\common.dll
+E:\Makmur\trading\providers\bin\Debug\connection.dll
+E:\Makmur\trading\providers\bin\Debug\Symmetric.dll
+E:\Makmur\trading\providers\bin\Debug\common.pdb
+E:\Makmur\trading\providers\bin\Debug\common.xml
+E:\Makmur\trading\providers\bin\Debug\connection.pdb
+E:\Makmur\trading\providers\bin\Debug\connection.xml
+E:\Makmur\trading\providers\obj\Debug\ResolveAssemblyReference.cache
+E:\Makmur\trading\providers\obj\Debug\providers.Resources.resources
+E:\Makmur\trading\providers\obj\Debug\providers.vbproj.GenerateResource.Cache
+E:\Makmur\trading\providers\obj\Debug\providers.dll
+E:\Makmur\trading\providers\obj\Debug\providers.xml
+E:\Makmur\trading\providers\obj\Debug\providers.pdb
+E:\Work\Makmur Fantawijaya\source code\providers\bin\Debug\providers.dll
+E:\Work\Makmur Fantawijaya\source code\providers\bin\Debug\providers.pdb
+E:\Work\Makmur Fantawijaya\source code\providers\bin\Debug\providers.xml
+E:\Work\Makmur Fantawijaya\source code\providers\bin\Debug\common.dll
+E:\Work\Makmur Fantawijaya\source code\providers\bin\Debug\connection.dll
+E:\Work\Makmur Fantawijaya\source code\providers\bin\Debug\Symmetric.dll
+E:\Work\Makmur Fantawijaya\source code\providers\bin\Debug\common.pdb
+E:\Work\Makmur Fantawijaya\source code\providers\bin\Debug\common.xml
+E:\Work\Makmur Fantawijaya\source code\providers\bin\Debug\connection.pdb
+E:\Work\Makmur Fantawijaya\source code\providers\bin\Debug\connection.xml
+E:\Work\Makmur Fantawijaya\source code\providers\obj\Debug\ResolveAssemblyReference.cache
+E:\Work\Makmur Fantawijaya\source code\providers\obj\Debug\providers.Resources.resources
+E:\Work\Makmur Fantawijaya\source code\providers\obj\Debug\providers.vbproj.GenerateResource.Cache
+E:\Work\Makmur Fantawijaya\source code\providers\obj\Debug\providers.dll
+E:\Work\Makmur Fantawijaya\source code\providers\obj\Debug\providers.xml
+E:\Work\Makmur Fantawijaya\source code\providers\obj\Debug\providers.pdb
+D:\Work\Makmur Fantawijaya\Makmur Fantawijaya\source code\providers\bin\Debug\providers.dll
+D:\Work\Makmur Fantawijaya\Makmur Fantawijaya\source code\providers\bin\Debug\providers.pdb
+D:\Work\Makmur Fantawijaya\Makmur Fantawijaya\source code\providers\bin\Debug\providers.xml
+D:\Work\Makmur Fantawijaya\Makmur Fantawijaya\source code\providers\bin\Debug\common.dll
+D:\Work\Makmur Fantawijaya\Makmur Fantawijaya\source code\providers\bin\Debug\connection.dll
+D:\Work\Makmur Fantawijaya\Makmur Fantawijaya\source code\providers\bin\Debug\Symmetric.dll
+D:\Work\Makmur Fantawijaya\Makmur Fantawijaya\source code\providers\bin\Debug\common.pdb
+D:\Work\Makmur Fantawijaya\Makmur Fantawijaya\source code\providers\bin\Debug\common.xml
+D:\Work\Makmur Fantawijaya\Makmur Fantawijaya\source code\providers\bin\Debug\connection.pdb
+D:\Work\Makmur Fantawijaya\Makmur Fantawijaya\source code\providers\bin\Debug\connection.xml
+D:\Work\Makmur Fantawijaya\Makmur Fantawijaya\source code\providers\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Makmur Fantawijaya\Makmur Fantawijaya\source code\providers\obj\Debug\providers.Resources.resources
+D:\Work\Makmur Fantawijaya\Makmur Fantawijaya\source code\providers\obj\Debug\providers.vbproj.GenerateResource.Cache
+D:\Work\Makmur Fantawijaya\Makmur Fantawijaya\source code\providers\obj\Debug\providers.dll
+D:\Work\Makmur Fantawijaya\Makmur Fantawijaya\source code\providers\obj\Debug\providers.xml
+D:\Work\Makmur Fantawijaya\Makmur Fantawijaya\source code\providers\obj\Debug\providers.pdb
+D:\Work\Makmur Fantawijaya\source code\providers\bin\Debug\providers.dll
+D:\Work\Makmur Fantawijaya\source code\providers\bin\Debug\providers.pdb
+D:\Work\Makmur Fantawijaya\source code\providers\bin\Debug\providers.xml
+D:\Work\Makmur Fantawijaya\source code\providers\bin\Debug\common.dll
+D:\Work\Makmur Fantawijaya\source code\providers\bin\Debug\connection.dll
+D:\Work\Makmur Fantawijaya\source code\providers\bin\Debug\Symmetric.dll
+D:\Work\Makmur Fantawijaya\source code\providers\bin\Debug\common.pdb
+D:\Work\Makmur Fantawijaya\source code\providers\bin\Debug\common.xml
+D:\Work\Makmur Fantawijaya\source code\providers\bin\Debug\connection.pdb
+D:\Work\Makmur Fantawijaya\source code\providers\bin\Debug\connection.xml
+D:\Work\Makmur Fantawijaya\source code\providers\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Makmur Fantawijaya\source code\providers\obj\Debug\providers.Resources.resources
+D:\Work\Makmur Fantawijaya\source code\providers\obj\Debug\providers.vbproj.GenerateResource.Cache
+D:\Work\Makmur Fantawijaya\source code\providers\obj\Debug\providers.dll
+D:\Work\Makmur Fantawijaya\source code\providers\obj\Debug\providers.xml
+D:\Work\Makmur Fantawijaya\source code\providers\obj\Debug\providers.pdb
+E:\Work\Makmur Fantawijaya\sourcecode\providers\bin\Debug\providers.dll
+E:\Work\Makmur Fantawijaya\sourcecode\providers\bin\Debug\providers.pdb
+E:\Work\Makmur Fantawijaya\sourcecode\providers\bin\Debug\providers.xml
+E:\Work\Makmur Fantawijaya\sourcecode\providers\bin\Debug\common.dll
+E:\Work\Makmur Fantawijaya\sourcecode\providers\bin\Debug\connection.dll
+E:\Work\Makmur Fantawijaya\sourcecode\providers\bin\Debug\Symmetric.dll
+E:\Work\Makmur Fantawijaya\sourcecode\providers\bin\Debug\common.pdb
+E:\Work\Makmur Fantawijaya\sourcecode\providers\bin\Debug\common.xml
+E:\Work\Makmur Fantawijaya\sourcecode\providers\bin\Debug\connection.pdb
+E:\Work\Makmur Fantawijaya\sourcecode\providers\bin\Debug\connection.xml
+E:\Work\Makmur Fantawijaya\sourcecode\providers\obj\Debug\ResolveAssemblyReference.cache
+E:\Work\Makmur Fantawijaya\sourcecode\providers\obj\Debug\providers.Resources.resources
+E:\Work\Makmur Fantawijaya\sourcecode\providers\obj\Debug\providers.vbproj.GenerateResource.Cache
+E:\Work\Makmur Fantawijaya\sourcecode\providers\obj\Debug\providers.dll
+E:\Work\Makmur Fantawijaya\sourcecode\providers\obj\Debug\providers.xml
+E:\Work\Makmur Fantawijaya\sourcecode\providers\obj\Debug\providers.pdb
+D:\Work\Makmur Fantawijaya\sourcecode\providers\bin\Debug\providers.dll
+D:\Work\Makmur Fantawijaya\sourcecode\providers\bin\Debug\providers.pdb
+D:\Work\Makmur Fantawijaya\sourcecode\providers\bin\Debug\providers.xml
+D:\Work\Makmur Fantawijaya\sourcecode\providers\bin\Debug\common.dll
+D:\Work\Makmur Fantawijaya\sourcecode\providers\bin\Debug\connection.dll
+D:\Work\Makmur Fantawijaya\sourcecode\providers\bin\Debug\Symmetric.dll
+D:\Work\Makmur Fantawijaya\sourcecode\providers\bin\Debug\common.pdb
+D:\Work\Makmur Fantawijaya\sourcecode\providers\bin\Debug\common.xml
+D:\Work\Makmur Fantawijaya\sourcecode\providers\bin\Debug\connection.pdb
+D:\Work\Makmur Fantawijaya\sourcecode\providers\bin\Debug\connection.xml
+D:\Work\Makmur Fantawijaya\sourcecode\providers\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Makmur Fantawijaya\sourcecode\providers\obj\Debug\providers.Resources.resources
+D:\Work\Makmur Fantawijaya\sourcecode\providers\obj\Debug\providers.vbproj.GenerateResource.Cache
+D:\Work\Makmur Fantawijaya\sourcecode\providers\obj\Debug\providers.dll
+D:\Work\Makmur Fantawijaya\sourcecode\providers\obj\Debug\providers.xml
+D:\Work\Makmur Fantawijaya\sourcecode\providers\obj\Debug\providers.pdb
+D:\fantawijaya\source code\providers\bin\Debug\providers.dll
+D:\fantawijaya\source code\providers\bin\Debug\providers.pdb
+D:\fantawijaya\source code\providers\bin\Debug\providers.xml
+D:\fantawijaya\source code\providers\bin\Debug\common.dll
+D:\fantawijaya\source code\providers\bin\Debug\connection.dll
+D:\fantawijaya\source code\providers\bin\Debug\Symmetric.dll
+D:\fantawijaya\source code\providers\bin\Debug\common.pdb
+D:\fantawijaya\source code\providers\bin\Debug\common.xml
+D:\fantawijaya\source code\providers\bin\Debug\connection.pdb
+D:\fantawijaya\source code\providers\bin\Debug\connection.xml
+D:\fantawijaya\source code\providers\obj\Debug\ResolveAssemblyReference.cache
+D:\fantawijaya\source code\providers\obj\Debug\providers.Resources.resources
+D:\fantawijaya\source code\providers\obj\Debug\providers.vbproj.GenerateResource.Cache
+D:\fantawijaya\source code\providers\obj\Debug\providers.dll
+D:\fantawijaya\source code\providers\obj\Debug\providers.xml
+D:\fantawijaya\source code\providers\obj\Debug\providers.pdb
+C:\Data\fantawijaya\source code\providers\bin\Debug\providers.dll
+C:\Data\fantawijaya\source code\providers\bin\Debug\providers.pdb
+C:\Data\fantawijaya\source code\providers\bin\Debug\providers.xml
+C:\Data\fantawijaya\source code\providers\bin\Debug\common.dll
+C:\Data\fantawijaya\source code\providers\bin\Debug\connection.dll
+C:\Data\fantawijaya\source code\providers\bin\Debug\Symmetric.dll
+C:\Data\fantawijaya\source code\providers\bin\Debug\common.pdb
+C:\Data\fantawijaya\source code\providers\bin\Debug\common.xml
+C:\Data\fantawijaya\source code\providers\bin\Debug\connection.pdb
+C:\Data\fantawijaya\source code\providers\bin\Debug\connection.xml
+C:\Data\fantawijaya\source code\providers\obj\Debug\ResolveAssemblyReference.cache
+C:\Data\fantawijaya\source code\providers\obj\Debug\providers.Resources.resources
+C:\Data\fantawijaya\source code\providers\obj\Debug\providers.vbproj.GenerateResource.Cache
+C:\Data\fantawijaya\source code\providers\obj\Debug\providers.dll
+C:\Data\fantawijaya\source code\providers\obj\Debug\providers.xml
+C:\Data\fantawijaya\source code\providers\obj\Debug\providers.pdb

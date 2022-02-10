@@ -1,0 +1,53 @@
+<%--
+Default skin template. The following skins are provided as examples only.
+
+1. Named control skin. The SkinId should be uniquely defined because
+   duplicate SkinId's per control type are not allowed in the same theme.
+
+<asp:GridView runat="server" SkinId="gridviewSkin" BackColor="White" >
+   <AlternatingRowStyle BackColor="Blue" />
+</asp:GridView>
+
+2. Default skin. The SkinId is not defined. Only one default 
+   control skin per control type is allowed in the same theme.
+
+<asp:Image runat="server" ImageUrl="~/images/image1.jpg" />
+--%>
+
+<%--
+<asp:Label runat="server" ForeColor="#585880" 
+    Font-Size="0.9em" Font-Names="Verdana" />
+
+<asp:TextBox runat="server" BackColor="#FFFFFF" 
+    BorderStyle="Solid" Font-Size="8pt" 
+    Font-Names="Futura Lt BT"  ForeColor="#585880" 
+    BorderColor="#585880" BorderWidth="1pt" 
+    CssClass="theme_textbox" />
+
+<asp:Button runat="server" BorderColor="#585880" 
+    Font-Bold="true" BorderWidth="1pt" 
+    ForeColor="#585880" BackColor="#F8F7F4" />
+
+<asp:LinkButton runat="server" Font-Size=".9em" 
+    Font-Names="Verdana"/>
+    --%>
+    
+<asp:Label runat="server" CssClass="languagelabel" SkinID="LBL" Font-Names="Futura Lt BT" Font-Size="8pt" />
+
+<asp:CheckBox runat="server" SkinID="CB" CssClass="checkbox" />
+
+<asp:DataGrid runat="server" SkinID="DGAPP" BorderColor="Silver" CellSpacing="0" CellPadding="3">
+    <PagerStyle Font-Bold="False" BackColor="White" Font-Italic="False" Font-Names="Futura Lt BT" Font-Overline="False"
+        Font-Size="10px" Font-Strikeout="False" Font-Underline="False" ForeColor="DimGray"
+        Mode="NumericPages" />
+    <AlternatingItemStyle BackColor="White" Font-Bold="False" Font-Italic="False" Font-Names="verdana"
+        Font-Overline="False" Font-Size="10px" Font-Strikeout="False" Font-Underline="False"
+        ForeColor="Black" />
+    <ItemStyle BackColor="#F7F6F3" Font-Bold="False" Font-Italic="False" Font-Names="verdana"
+        Font-Overline="False" Font-Size="10px" Font-Strikeout="False" Font-Underline="False"
+        ForeColor="#333333" />
+    <HeaderStyle BackColor="Silver" Font-Bold="True" Font-Italic="False" Font-Names="Verdana"
+        Font-Overline="False" Font-Size="10px" Font-Strikeout="False" Font-Underline="False"
+        ForeColor="Black" />
+    
+</asp:DataGrid>

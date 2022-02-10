@@ -1,0 +1,16 @@
+bin\Debug\providers.dll
+bin\Debug\providers.pdb
+bin\Debug\providers.xml
+bin\Debug\common.dll
+bin\Debug\connection.dll
+bin\Debug\Symmetric.dll
+bin\Debug\common.pdb
+bin\Debug\common.xml
+bin\Debug\connection.pdb
+bin\Debug\connection.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\providers.Resources.resources
+obj\Debug\providers.vbproj.GenerateResource.Cache
+obj\Debug\providers.dll
+obj\Debug\providers.xml
+obj\Debug\providers.pdb

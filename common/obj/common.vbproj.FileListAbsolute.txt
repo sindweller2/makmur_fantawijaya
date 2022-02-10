@@ -1,0 +1,83 @@
+D:\Makmur\trading\common\bin\Debug\common.dll
+D:\Makmur\trading\common\bin\Debug\common.pdb
+D:\Makmur\trading\common\bin\Debug\common.xml
+D:\Makmur\trading\common\bin\Debug\Symmetric.dll
+D:\Makmur\trading\common\obj\Debug\ResolveAssemblyReference.cache
+D:\Makmur\trading\common\obj\Debug\common.Resources.resources
+D:\Makmur\trading\common\obj\Debug\common.vbproj.GenerateResource.Cache
+D:\Makmur\trading\common\obj\Debug\common.dll
+D:\Makmur\trading\common\obj\Debug\common.xml
+D:\Makmur\trading\common\obj\Debug\common.pdb
+E:\Makmur\trading\common\bin\Debug\common.dll
+E:\Makmur\trading\common\bin\Debug\common.pdb
+E:\Makmur\trading\common\bin\Debug\common.xml
+E:\Makmur\trading\common\bin\Debug\Symmetric.dll
+E:\Makmur\trading\common\obj\Debug\ResolveAssemblyReference.cache
+E:\Makmur\trading\common\obj\Debug\common.Resources.resources
+E:\Makmur\trading\common\obj\Debug\common.vbproj.GenerateResource.Cache
+E:\Makmur\trading\common\obj\Debug\common.dll
+E:\Makmur\trading\common\obj\Debug\common.xml
+E:\Makmur\trading\common\obj\Debug\common.pdb
+E:\Work\Makmur Fantawijaya\source code\common\bin\Debug\common.dll
+E:\Work\Makmur Fantawijaya\source code\common\bin\Debug\common.pdb
+E:\Work\Makmur Fantawijaya\source code\common\bin\Debug\common.xml
+E:\Work\Makmur Fantawijaya\source code\common\obj\Debug\ResolveAssemblyReference.cache
+E:\Work\Makmur Fantawijaya\source code\common\obj\Debug\common.Resources.resources
+E:\Work\Makmur Fantawijaya\source code\common\obj\Debug\common.vbproj.GenerateResource.Cache
+E:\Work\Makmur Fantawijaya\source code\common\obj\Debug\common.dll
+E:\Work\Makmur Fantawijaya\source code\common\obj\Debug\common.xml
+E:\Work\Makmur Fantawijaya\source code\common\obj\Debug\common.pdb
+D:\Work\Makmur Fantawijaya\Makmur Fantawijaya\source code\common\bin\Debug\common.dll
+D:\Work\Makmur Fantawijaya\Makmur Fantawijaya\source code\common\bin\Debug\common.pdb
+D:\Work\Makmur Fantawijaya\Makmur Fantawijaya\source code\common\bin\Debug\common.xml
+D:\Work\Makmur Fantawijaya\Makmur Fantawijaya\source code\common\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Makmur Fantawijaya\Makmur Fantawijaya\source code\common\obj\Debug\common.Resources.resources
+D:\Work\Makmur Fantawijaya\Makmur Fantawijaya\source code\common\obj\Debug\common.vbproj.GenerateResource.Cache
+D:\Work\Makmur Fantawijaya\Makmur Fantawijaya\source code\common\obj\Debug\common.dll
+D:\Work\Makmur Fantawijaya\Makmur Fantawijaya\source code\common\obj\Debug\common.xml
+D:\Work\Makmur Fantawijaya\Makmur Fantawijaya\source code\common\obj\Debug\common.pdb
+D:\Work\Makmur Fantawijaya\source code\common\bin\Debug\common.dll
+D:\Work\Makmur Fantawijaya\source code\common\bin\Debug\common.pdb
+D:\Work\Makmur Fantawijaya\source code\common\bin\Debug\common.xml
+D:\Work\Makmur Fantawijaya\source code\common\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Makmur Fantawijaya\source code\common\obj\Debug\common.Resources.resources
+D:\Work\Makmur Fantawijaya\source code\common\obj\Debug\common.vbproj.GenerateResource.Cache
+D:\Work\Makmur Fantawijaya\source code\common\obj\Debug\common.dll
+D:\Work\Makmur Fantawijaya\source code\common\obj\Debug\common.xml
+D:\Work\Makmur Fantawijaya\source code\common\obj\Debug\common.pdb
+E:\Work\Makmur Fantawijaya\sourcecode\common\bin\Debug\common.dll
+E:\Work\Makmur Fantawijaya\sourcecode\common\bin\Debug\common.pdb
+E:\Work\Makmur Fantawijaya\sourcecode\common\bin\Debug\common.xml
+E:\Work\Makmur Fantawijaya\sourcecode\common\obj\Debug\ResolveAssemblyReference.cache
+E:\Work\Makmur Fantawijaya\sourcecode\common\obj\Debug\common.Resources.resources
+E:\Work\Makmur Fantawijaya\sourcecode\common\obj\Debug\common.vbproj.GenerateResource.Cache
+E:\Work\Makmur Fantawijaya\sourcecode\common\obj\Debug\common.dll
+E:\Work\Makmur Fantawijaya\sourcecode\common\obj\Debug\common.xml
+E:\Work\Makmur Fantawijaya\sourcecode\common\obj\Debug\common.pdb
+D:\Work\Makmur Fantawijaya\sourcecode\common\bin\Debug\common.dll
+D:\Work\Makmur Fantawijaya\sourcecode\common\bin\Debug\common.pdb
+D:\Work\Makmur Fantawijaya\sourcecode\common\bin\Debug\common.xml
+D:\Work\Makmur Fantawijaya\sourcecode\common\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Makmur Fantawijaya\sourcecode\common\obj\Debug\common.Resources.resources
+D:\Work\Makmur Fantawijaya\sourcecode\common\obj\Debug\common.vbproj.GenerateResource.Cache
+D:\Work\Makmur Fantawijaya\sourcecode\common\obj\Debug\common.dll
+D:\Work\Makmur Fantawijaya\sourcecode\common\obj\Debug\common.xml
+D:\Work\Makmur Fantawijaya\sourcecode\common\obj\Debug\common.pdb
+D:\fantawijaya\source code\common\bin\Debug\common.dll
+D:\fantawijaya\source code\common\bin\Debug\common.pdb
+D:\fantawijaya\source code\common\bin\Debug\common.xml
+D:\fantawijaya\source code\common\obj\Debug\ResolveAssemblyReference.cache
+D:\fantawijaya\source code\common\obj\Debug\common.Resources.resources
+D:\fantawijaya\source code\common\obj\Debug\common.vbproj.GenerateResource.Cache
+D:\fantawijaya\source code\common\obj\Debug\common.dll
+D:\fantawijaya\source code\common\obj\Debug\common.xml
+D:\fantawijaya\source code\common\obj\Debug\common.pdb
+C:\Data\fantawijaya\source code\common\bin\Debug\common.dll
+C:\Data\fantawijaya\source code\common\bin\Debug\common.pdb
+C:\Data\fantawijaya\source code\common\bin\Debug\common.xml
+C:\Data\fantawijaya\source code\common\obj\Debug\ResolveAssemblyReference.cache
+C:\Data\fantawijaya\source code\common\obj\Debug\common.Resources.resources
+C:\Data\fantawijaya\source code\common\obj\Debug\common.vbproj.GenerateResource.Cache
+C:\Data\fantawijaya\source code\common\obj\Debug\common.dll
+C:\Data\fantawijaya\source code\common\obj\Debug\common.xml
+C:\Data\fantawijaya\source code\common\obj\Debug\common.pdb

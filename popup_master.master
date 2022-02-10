@@ -1,0 +1,27 @@
+<%@ Master Language="VB" %>
+
+<!DOCTYPE html> 
+
+<script runat="server">
+
+</script>
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head runat="server">
+
+    <title>Integrated Accounting System</title>
+    <link href="default.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+        .menu { background-image: url(images/menu.gif);}
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div id="divbackground" runat="server">
+        <asp:contentplaceholder id="ContentPlaceHolder1" runat="server">
+        
+        </asp:contentplaceholder>
+    </div>
+    </form>
+</body>
+</html>

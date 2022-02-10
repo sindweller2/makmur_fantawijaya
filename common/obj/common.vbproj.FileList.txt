@@ -1,0 +1,9 @@
+bin\Debug\common.dll
+bin\Debug\common.pdb
+bin\Debug\common.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\common.Resources.resources
+obj\Debug\common.vbproj.GenerateResource.Cache
+obj\Debug\common.dll
+obj\Debug\common.xml
+obj\Debug\common.pdb

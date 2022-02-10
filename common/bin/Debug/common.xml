@@ -1,0 +1,43 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+common
+</name>
+</assembly>
+<members>
+<member name="P:common.CommonEmails.subjectEmail">
+	<summary>
+ Subject Untuk Email
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:common.CommonEmails.ToEmails">
+	<summary>
+ To Untuk Email
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:common.CommonEmails.FromEmails">
+	<summary>
+ From Untuk Email
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:common.CommonEmails.BodyEmails">
+	<summary>
+ Body Email
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="T:common.CommonEmails">
+	<summary>
+ Merupakan Class dari Email
+ </summary>
+</member>
+</members>
+</doc>

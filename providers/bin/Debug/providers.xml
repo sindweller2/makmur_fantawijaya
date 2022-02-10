@@ -1,0 +1,18 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+providers
+</name>
+</assembly>
+<members>
+<member name="M:providers.RoleProvider.RoleExists(System.String)">
+	<summary>
+ RoleExists dengan procedure aspnet_menu_list_MenuExists
+ tujuan dari function ini yaitu untuk mengetahui ada atau tidaknya menu
+ </summary>
+	<returns></returns>
+	<remarks>Anwar Minarso</remarks>
+</member>
+</members>
+</doc>
